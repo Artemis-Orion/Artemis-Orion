@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python 3**
 
-- 👨‍💻 My favorite projects are available at [artemis-orion.tech](artemis-orion.tech)
+- 👨‍💻 My favorite projects are available at [artemis-orion.tech](https://artemis-orion.tech)
 
 - 📫 How to reach me **artemis_orion@artemis-orion.tech**
 
